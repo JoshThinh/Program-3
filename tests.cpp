@@ -1,7 +1,7 @@
 // tests.cpp -- your own tests for HashMap and TreeMap.
 //
-// Name:
-// SDSU ID:
+// Name: Joshua Thinh
+// SDSU ID: 133414681
 //
 // Build and run with sanitizers:   make test
 //

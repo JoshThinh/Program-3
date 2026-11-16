@@ -1,7 +1,7 @@
 // experiment.cpp -- measurements for Part C.
 //
-// Name:
-// SDSU ID:
+// Name: Joshua Thinh
+// SDSU ID: 133414681
 //
 // Build:  make experiment
 // Run:    ./experiment <your SDSU ID>

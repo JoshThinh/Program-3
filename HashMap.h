@@ -6,8 +6,8 @@
 // std::unordered_map, std::map, or std::hash anywhere in this file or in
 // HashMap.tpp.
 //
-// Name:
-// SDSU ID:
+// Name: Joshua Thinh
+// SDSU ID: 133414681
 //
 // RULES
 //  - Do NOT change anything in the public section. The grader compiles

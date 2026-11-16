@@ -8,8 +8,8 @@
 //       see the assignment handout for its definition).
 // State which one you implemented in the comment below.
 //
-// Name:
-// SDSU ID:
+// Name: Joshua Thinh
+// SDSU ID: 133414681
 // Variant implemented (standard RB or LLRB):
 //
 // RULES

@@ -1,7 +1,7 @@
 // TreeMap.tpp -- implementation of TreeMap<K, V>. Included at the end of TreeMap.h.
 //
-// Name:
-// SDSU ID:
+// Name: Joshua Thinh
+// SDSU ID: 133414681
 //
 // Every function below is a stub that compiles but does nothing useful.
 // Replace each TODO with your implementation. Most of these are easiest to
